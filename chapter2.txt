@@ -1,0 +1,3 @@
+Git Hub and Remote repository
+
+git remote add origin LINK-OF-repository --> will link the local repository to remote repository
