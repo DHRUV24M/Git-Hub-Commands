@@ -1,1 +1,7 @@
 we will learn about git and how to access local git repository
+git init --> it is a command to initialise git local repository in a project file
+git 
+git status --> tells us the status of unstaged file in working directory
+git add filename --> will add file in queue to be commited later (git add . --> will add every file in that working directory)
+git commit --> commits the file that have been added and creates new revision with a log
+git push --> pushes your changes to remote repository
