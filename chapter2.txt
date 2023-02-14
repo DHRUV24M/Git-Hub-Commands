@@ -1,3 +1,4 @@
 Git Hub and Remote repository
 
 git remote add origin LINK-OF-repository --> will link the local repository to remote repository
+git push -u origin master --> will send the files from local repository to remote repository (origin is the remote branch and master the local repository branch)
