@@ -4,4 +4,5 @@ git
 git status --> tells us the status of unstaged file in working directory
 git add filename --> will add file in queue to be commited later (git add . --> will add every file in that working directory)
 git commit --> commits the file that have been added and creates new revision with a log
+git checkout --> to undo the changes that is made in file
 git push --> pushes your changes to remote repository
